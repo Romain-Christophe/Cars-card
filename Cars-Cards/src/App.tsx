@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import './main'
-import Card from './Component/Card'
+
+import './main'; 
+import Card from './Component/Card';
 
 function App() {
-  
-return Car
-  
+  return (
+    
+  );
 }
 
-export default App
+export default App;

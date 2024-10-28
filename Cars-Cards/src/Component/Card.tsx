@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import './App.css'; // Assurez-vous que le fichier CSS est importé
+import  { useState } from 'react'; 
+import '../App.css';
 
 const Card = () => {
     const [flipped, setFlipped] = useState(false);
